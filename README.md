@@ -4,7 +4,7 @@ I am a passionate UI/UX Engineer with a strong affinity for coding and a continu
 
 
 # Skills & Experiences
-- 🟢 HTML5 🟢 CSS3 🟢 Bootstrap 🟢 Tailwind 🟢 Flutter 🟢 Figma 🟢 Adobe XD 🟢 Illustrator 🟢 Photoshop
+🟢 HTML5 🟢 CSS3 🟢 Bootstrap 🟢 Tailwind 🟢 Flutter 🟢 Figma 🟢 Adobe XD 🟢 Illustrator 🟢 Photoshop
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/omars-dev/)

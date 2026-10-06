@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Make it clear. Make it work.">
+<rect width="1200" height="150" rx="20" fill="#0D1117"/><rect x="1" y="1" width="1198" height="148" rx="19" fill="none" stroke="#30363D"/>
+<text x="600" y="78" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="38" font-weight="800" letter-spacing="2" fill="#F0F6FC">MAKE IT CLEAR. <tspan fill="#FF7A45">MAKE IT WORK.</tspan></text>
+<rect x="540" y="98" width="0" height="4" rx="2" fill="#FF7A45"><animate attributeName="width" values="0;120;120;0" keyTimes="0;0.3;0.85;1" dur="4s" repeatCount="indefinite"/></rect>
+<text x="600" y="128" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#6E7681">Omar Faruk · Product Designer × Developer · Omar Forge</text>
+</svg>

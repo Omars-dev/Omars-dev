@@ -1,27 +1,112 @@
-# Hi there 👋, my name is Omar Faruk
+<h1 align="center">Omar Faruk</h1>
 
-I am a passionate UI/UX Engineer with a strong affinity for coding and a continuous learning mindset. I derive immense satisfaction from wireframing, UI/UX design, and the broader realms of design. My proficiency extends to various tools and technologies, including Bootstrap, WordPress, and Flutter. My journey is a fusion of creativity and technical expertise, driven by my unwavering dedication to crafting seamless, user-centric digital experiences
+<p align="center">
+  <strong>Product Designer • Flutter Developer • Web Builder</strong>
+</p>
 
+<p align="center">
+  I design and build mobile apps, web products, Shopify experiences,
+  and improve existing or AI-built products.
+</p>
 
-# Skills & Experiences
-🟢 HTML5 🟢 CSS3 🟢 Bootstrap 🟢 Tailwind 🟢 Flutter 🟢 Figma 🟢 Adobe XD 🟢 Illustrator 🟢 Photoshop
+<p align="center">
+  <a href="https://omarforge.com">Portfolio</a> •
+  <a href="https://github.com/">GitHub</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a>
+</p>
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/omars-dev/)
+## ⚡ What I Do
 
+<table>
+<tr>
+<td width="50%">
 
+### 🎨 Product Design
 
-<!--
-**Omars-dev/Omars-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- UI/UX Design
+- User Flows
+- Wireframes
+- Interactive Prototypes
+- Design Systems
+- UX Audits
 
-Here are some ideas to get you started:
+</td>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<td width="50%">
+
+### 📱 Mobile Apps
+
+- Flutter Development
+- iOS & Android
+- API Integration
+- App Testing
+- Release Support
+- Existing App Improvements
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Web & Shopify
+
+- Responsive Websites
+- Web Apps
+- Admin Dashboards
+- Shopify Development
+- Storefront UX
+- Performance Improvements
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Project Support
+
+- AI-Built App Review
+- UI & Responsive Fixes
+- Bug Fixes
+- API Connections
+- Automation
+- Feature Completion
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 How I Work
+
+`Discover` → `Plan` → `Design` → `Build` → `Test` → `Launch`
+
+I like working across the full product lifecycle — from understanding the problem to shipping a working product.
+
+---
+
+## 🛠 Tech & Tools
+
+### Design
+`Figma` `Adobe XD` `Illustrator` `Photoshop`
+
+### Development
+`Flutter` `Dart` `JavaScript` `HTML5` `CSS3` `Tailwind CSS`
+
+### Product & Engineering
+`REST APIs` `Git` `GitHub` `Shopify` `Testing` `Debugging`
+
+---
+
+## 🚀 Product Areas
+
+```text
+📱 Mobile Apps
+🖥 Web Products
+🛒 Shopify Stores
+🧩 Design Systems
+⚙️ Internal Tools
+🔌 API Integrations
+🤖 AI-Built Product Fixes
